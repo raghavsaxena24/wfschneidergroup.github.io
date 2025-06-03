@@ -6,7 +6,7 @@ layout: default
 [Google Scholar Profile](https://scholar.google.com/citations?user=7a2aQL0AAAAJ)
 
 <a href="#Recent Publications">Recent Publications</a>&emsp;&emsp;&emsp;
-<a href="#2019">2016-2019</a>&emsp;&emsp;&emsp;
+<a href="#2019">2016-2020</a>&emsp;&emsp;&emsp;
 <a href="#2015">2011-2015</a>&emsp;&emsp;&emsp;
 <a href="#2010">2006-2010</a>&emsp;&emsp;&emsp;
 <a href="#2005">2001-2005</a>&emsp;&emsp;&emsp;
@@ -72,6 +72,9 @@ layout: default
 
 1. P. M. Kester, J. T. Crum, S. Li, W. F. Schneider, R. Gounder, "Effects of Brønsted Acid Site Proximity in Chabazite Zeolites on OH Infrared Spectra and Protolytic Propane Cracking Kinetics," *J. Catal.* **2021**,*395*, 210-226. [doi:10.1016/j.jcat.2020.12.038](https://doi-org/10.1016/j.jcat.2020.12.038)
 
+    <a name="2020"></a> **Publications 2016-2020**
+    &emsp;&emsp;&emsp;<a href="#Top">&lt;&lt; back to top</a>
+
 1. C. Paolucci, J. R. Di Iorio, W. F. Schneider, R. Gounder, "Solvation and Mobilization of Copper Active Sites in Zeolites by Ammonia: Consequences for the Catalytic Reduction of Nitrogen Oxides," *Accts. Chem. Res.* **2020**, *53*, 1881-1892. [doi:10.1021/acs.accounts.0c00328](https://dx.doi.org/10.1021/acs.accounts.0c00328)
 
 1. A. Bogaerts, X. Tu, J. C. Whitehead, G. Centi, L. Lefferts, O. Guaitella, F. Azzolina-Jury, H.-H. Kim, A. B. Murphy, W. F. Schneider, T. Nozaki, J. C. Hicks, A. Rousseau, F. Thevenet, A. Khacef,and M. Carreon, "The 2020 Plasma Catalysis Roadmap," *J. Phys. D: Appl. Phys.* **2020**, *55*, 443001. [doi:10.1088/1361-6463/ab9048](https://doi.org/10.1088/1361-6463/ab9048)
@@ -90,8 +93,6 @@ layout: default
 
 1. A. Bajpai, K. Frey, and W. F. Schneider, "Comparison of Coverage-Dependent Binding Energy Models for Mean-Field Microkinetic Rate Predictions," *Langmuir* **2020**, *36*, 465-474. [doi:10.1021/acs.langmuir.9b03563](http://dx.doi.org/10.1021/acs.langmuir.9b03563)    [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-bgsz9n8ApWuaHS24aTzi)
 
-    <a name="2019"></a> **Publications 2016-2019**
-    &emsp;&emsp;&emsp;<a href="#Top">&lt;&lt; back to top</a>
 
 1. G. C. Schatz, A. B. McCoy, J.-E. Shea, C. J. Murphy, G. Scholes, V. Batista, K. Bhattacharyya, J. Bisquert, D. Crawford, T. Cuk, R. Dickson, H. Fairbrother, M. Forsyth, J. Fourkas, F. Geiger, A. Gewirth, T. Goodson III, G. R. Goward, H. Guo, G. V. Hartland, P. Jungwirth, S. Lin, G.-Yu Liu, Z.-P. Liu, B. Mennucci, T. Minton, A. S. Mullin, O. Prezhdo, W. F. Schneider, B. Schwartz, N. Snider, G. Solomon, E. Weitz, X. Yang, A. Yethiraj, F. Zaera, M. Zanni, J. Zhang, H. Zhong, T. Zwier, "The /JPC/ Periodic Table," *J. Phys. Chem. C* **2019**, *123*, 17063-17074. [doi:10.1021/acs.jpcc.9b03462](https://doi.org/10.1021/acs.jpcc.9b03462)
 
