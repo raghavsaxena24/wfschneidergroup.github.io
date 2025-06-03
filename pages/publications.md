@@ -15,6 +15,12 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
+1. B. K. Bolton, A. Chovatiya, C. K. Russell, R. Daya, D. S. Trandal, L. Wei, G. K. Reddy, K. Kamasamudram, J. T. Miller, W. F. Schneider, R. Gounder, "Mechanistic Insights into the NH3 Oxidation Rate and Selectivity Hysteresis on Pt/Al2O3 Catalysts," *ACS Catal.* **2025**, 15 (4), 2715-3583, [https://doi.org/10.1021/acscatal.4c05560](https://doi.org/10.1021/acscatal.4c05560)
+
+
+1. D. J. Haycock, R. J. Clarke, D. B. Go, W. F. Schneider, and J. C. Hicks, "Fundamental Insights and Emerging Opportunities in Plasma Catalysis for Light Alkane Conversion," *Curr. Opin. Grn. Sust. Chem.* **2025**, 100987. [https://doi.org/10.1016/j.cogsc.2024.100987](https://doi.org/10.1016/j.cogsc.2024.100987)
+
+1. Xuyao Gao, Steven Yeo, Rajamani Gounder, Ahmad Moini, and William F. Schneider "Predicted Influence of Organic Structure Directing Agents on Al Distributions in CHA Zeolites" *Chemistry of Materials Article*  **2024** [https://doi.org/10.1021/acs.chemmater.4c02463]
 
 1. N. Mehra and W. F. Schneider, "Density functional theory and microkinetics of ethylene chain growth and termination on silica grafted group 4 metal hydrides," *Catal. Sci. Technol.* **2024**, 4869-4881. [https://doi.org/10.1039/D4CY00684D](https://doi.org/10.1039/D4CY00684D)
 
