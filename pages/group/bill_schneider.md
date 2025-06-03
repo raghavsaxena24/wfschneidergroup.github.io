@@ -2,7 +2,7 @@
 layout: default
 ---
 # William F. Schneider
-![](/group_data/people_photos/wschnei1.JPG){: .image_bill}
+![](/group_data/people_photos/wschnei1.JPEG){: .image_bill}
 
 Keating-Crawford Professor of Chemical Engineering
 
