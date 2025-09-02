@@ -16,9 +16,9 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
-1. R. Saxena, B. L. Cruz Delgado, M. T. Caudle, A. Debellis, S. Prasad, A. Moini, R. Gounder, and W. F. Schneider, "Contribution of Brønsted Acid Sites to \ce{N2O} Generation during \ce{NO_x} Reduction over H-CHA Zeolite Catalysts", *Energy \& Fuels* **2025**, *39(30)*, 14664–14675. [https://doi.org/10.1021/acs.energyfuels.5c02308]
+1. R. Saxena, B. L. Cruz Delgado, M. T. Caudle, A. Debellis, S. Prasad, A. Moini, R. Gounder, and W. F. Schneider, "Contribution of Brønsted Acid Sites to N2O Generation during NOx Reduction over H-CHA Zeolite Catalysts", *Energy Fuels* **2025**, *39*, *30*, 14664–14675. [https://doi.org/10.1021/acs.energyfuels.5c02308](https://doi.org/10.1021/acs.energyfuels.5c02308).
 
-1. J. Rebolledo-Oyarce, A. D. Mikes, L. Kilburn, R. Gounder, and W. F. Schneider, "Heterogeneous and Framework-Bound Copper Species Contribute to Catalytic Partial Methane Oxidation in Cu−Chabazite Zeolites," *ACS Catal.* **2025**, *15*, in press. [https://doi.org/10.1021/acscatal.5c00893](https://doi.org/10.1021/acscatal.5c00893).
+1. J. Rebolledo-Oyarce, A. D. Mikes, L. Kilburn, R. Gounder, and W. F. Schneider, "Heterogeneous and Framework-Bound Copper Species Contribute to Catalytic Partial Methane Oxidation in Cu−Chabazite Zeolites," *ACS Catal.* **2025**, *15*, *12*, 10198–10209. [https://doi.org/10.1021/acscatal.5c00893](https://doi.org/10.1021/acscatal.5c00893).
 
 1. B. K. Bolton, A. Chovatiya, C. K. Russell, R. Daya, D. S. Trandal, L. Wei, G. K. Reddy, K. Kamasamudram, J. T. Miller, W. F. Schneider, R. Gounder, "Mechanistic Insights into the NH3 Oxidation Rate and Selectivity Hysteresis on Pt/Al2O3 Catalysts," *ACS Catal.* **2025**, *15*, 2715-3583, [https://doi.org/10.1021/acscatal.4c05560](https://doi.org/10.1021/acscatal.4c05560)
 
